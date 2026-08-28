@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 680" width="640" height="680">
+  <rect width="640" height="680" fill="#0d1117" rx="10"/>
+  <style>
+    .title{font-family:'Segoe UI',Arial,sans-serif;font-size:28px;font-weight:700;fill:#f0f6fc;}
+    .role{font-family:'Segoe UI',Arial,sans-serif;font-size:15px;fill:#1D9E75;}
+    .h{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;font-weight:700;fill:#f0f6fc;}
+    .b{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;fill:#c9d1d9;}
+    .tag{font-family:'Courier New',monospace;font-size:11px;fill:#0d1117;font-weight:700;}
+    .stat-n{font-family:'Segoe UI',Arial,sans-serif;font-size:22px;font-weight:700;fill:#1D9E75;}
+    .stat-l{font-family:'Segoe UI',Arial,sans-serif;font-size:10px;fill:#8b949e;}
+  </style>
+
+  <rect x="0" y="0" width="640" height="6" fill="#1D9E75"/>
+
+  <text x="30" y="50" class="title">Abdul Razzak R</text>
+  <text x="30" y="75" class="role">QA Engineer · Manual, API &amp; IoT Testing · Chennai, India</text>
+  <line x1="30" y1="92" x2="610" y2="92" stroke="#30363d" stroke-width="1"/>
+
+  <text x="30" y="122" class="h">FOCUS</text>
+  <text x="30" y="145" class="b">SOL-X Smart Safety Ecosystem — maritime SaaS</text>
+  <text x="30" y="163" class="b">+ IoT wearables for crew health &amp; safety</text>
+
+  <text x="30" y="198" class="h">BUILT</text>
+  <text x="30" y="221" class="b">MQTT payload decoder (Base64 → JSON)</text>
+  <text x="30" y="239" class="b">Android watch stress-testing framework</text>
+
+  <text x="30" y="274" class="h">CURRENTLY LEARNING</text>
+  <text x="30" y="297" class="b">Playwright + JavaScript → hybrid manual/automation QA</text>
+
+  <text x="30" y="332" class="h">CORE STACK</text>
+
+  <g>
+    <rect x="30" y="345" width="105" height="26" rx="13" fill="#1D9E75"/>
+    <text x="82" y="362" class="tag" text-anchor="middle">Manual Testing</text>
+
+    <rect x="145" y="345" width="90" height="26" rx="13" fill="#1D9E75"/>
+    <text x="190" y="362" class="tag" text-anchor="middle">Regression</text>
+
+    <rect x="245" y="345" width="70" height="26" rx="13" fill="#1D9E75"/>
+    <text x="280" y="362" class="tag" text-anchor="middle">UAT</text>
+
+    <rect x="325" y="345" width="90" height="26" rx="13" fill="#1D9E75"/>
+    <text x="370" y="362" class="tag" text-anchor="middle">Exploratory</text>
+  </g>
+
+  <g>
+    <rect x="30" y="381" width="90" height="26" rx="13" fill="#378ADD"/>
+    <text x="75" y="398" class="tag" text-anchor="middle">Postman</text>
+
+    <rect x="130" y="381" width="90" height="26" rx="13" fill="#378ADD"/>
+    <text x="175" y="398" class="tag" text-anchor="middle">Swagger</text>
+
+    <rect x="230" y="381" width="100" height="26" rx="13" fill="#378ADD"/>
+    <text x="280" y="398" class="tag" text-anchor="middle">REST API</text>
+
+    <rect x="340" y="381" width="70" height="26" rx="13" fill="#378ADD"/>
+    <text x="375" y="398" class="tag" text-anchor="middle">JIRA</text>
+
+    <rect x="420" y="381" width="105" height="26" rx="13" fill="#378ADD"/>
+    <text x="472" y="398" class="tag" text-anchor="middle">PostgreSQL</text>
+  </g>
+
+  <g>
+    <rect x="30" y="417" width="80" height="26" rx="13" fill="#BA7517"/>
+    <text x="70" y="434" class="tag" text-anchor="middle">MQTT</text>
+
+    <rect x="120" y="417" width="100" height="26" rx="13" fill="#BA7517"/>
+    <text x="170" y="434" class="tag" text-anchor="middle">IoT Testing</text>
+
+    <rect x="230" y="417" width="105" height="26" rx="13" fill="#BA7517"/>
+    <text x="282" y="434" class="tag" text-anchor="middle">Android ADB</text>
+
+    <rect x="345" y="417" width="115" height="26" rx="13" fill="#BA7517"/>
+    <text x="402" y="434" class="tag" text-anchor="middle">Shell Scripting</text>
+
+    <rect x="470" y="417" width="90" height="26" rx="13" fill="#BA7517"/>
+    <text x="515" y="434" class="tag" text-anchor="middle">Grafana</text>
+  </g>
+
+  <g>
+    <rect x="30" y="453" width="110" height="26" rx="13" fill="#534AB7"/>
+    <text x="85" y="470" class="tag" text-anchor="middle">Agile/Scrum</text>
+
+    <rect x="150" y="453" width="140" height="26" rx="13" fill="#2EAD33"/>
+    <text x="220" y="470" class="tag" text-anchor="middle">Playwright (learning)</text>
+
+    <rect x="300" y="453" width="140" height="26" rx="13" fill="#F7DF1E"/>
+    <text x="370" y="470" class="tag" text-anchor="middle" fill="#0d1117">JavaScript (learning)</text>
+  </g>
+
+  <line x1="30" y1="500" x2="610" y2="500" stroke="#30363d" stroke-width="1"/>
+
+  <g>
+    <text x="30" y="535" class="stat-n">2+</text>
+    <text x="30" y="553" class="stat-l">YEARS QA EXP</text>
+
+    <text x="180" y="535" class="stat-n">200+</text>
+    <text x="180" y="553" class="stat-l">TEST CASES/SPRINT</text>
+
+    <text x="340" y="535" class="stat-n">99.9%</text>
+    <text x="340" y="553" class="stat-l">IOT SYNC ACCURACY</text>
+
+    <text x="500" y="535" class="stat-n">2</text>
+    <text x="500" y="553" class="stat-l">QA TOOLS BUILT</text>
+  </g>
+
+  <rect x="0" y="674" width="640" height="6" fill="#1D9E75"/>
+</svg>
