@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=1D9E75&center=true&vCenter=true&width=650&lines=Manual+Testing+%7C+STLC+%7C+Regression+%7C+UAT;API+Testing+with+Postman+%26+Swagger;MQTT+%2F+IoT+Data+Validation+Specialist;Android+ADB+%26+Stress+Testing;Currently+learning+Playwright+%2B+JavaScript" />
 </p>
 
-| [![Abdul Razzak — ASCII portrait](files/abdul-ascii.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/files/abdul-ascii.svg) | [![Abdul Razzak — role, stack, highlights](files/info-card.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/files/info-card.svg) |
+| [![Abdul Razzak — ASCII portrait](files/abdul-ascii.gif)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/files/abdul-ascii.gif) | [![Abdul Razzak — role, stack, highlights](files/info-card.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/files/info-card.svg) |
 
 <p align="center">
   <a href="https://abdulrazzakr28.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
