@@ -1,5 +1,4 @@
-| [![Abdul Razzak — ASCII portrait](abdul-ascii.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/abdul-ascii.svg) | [![Abdul Razzak — role, stack, highlights](info-card.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/info-card.svg) |
-| --- | --- |
+| [![Abdul Razzak — ASCII portrait](files/abdul-ascii.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/files/abdul-ascii.svg) | [![Abdul Razzak — role, stack, highlights](files/info-card.svg)](/AbdulRazzakR28/AbdulRazzakR28/blob/main/files/info-card.svg) |
 
 ## Abdul Razzak R
 
